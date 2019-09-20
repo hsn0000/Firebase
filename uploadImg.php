@@ -28,7 +28,7 @@
             authDomain: "fir-web-29e00.firebaseapp.com",
             databaseURL: "https://fir-web-29e00.firebaseio.com",
             projectId: "fir-web-29e00",
-            storageBucket: "",
+            storageBucket: "fir-web-29e00.appspot.com",
             messagingSenderId: "76995500026",
             appId: "1:76995500026:web:b0fb3af319289f72eff643"
       };
